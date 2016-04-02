@@ -1,0 +1,9 @@
+*.sdf
+*.suo
+*.sln
+
+#UE4 Files
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
